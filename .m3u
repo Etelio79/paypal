@@ -6,8 +6,6 @@ https://dl.dropboxusercontent.com/s/xrzobiiriobhr4d/Video_20230203123748401_by_F
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x51V8juMrg4Xc6ks30T9zq-/ts
 #EXTINF:-1 xui-id="169403" tvg-id="" tvg-name="CINE  | CINEMAX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="📽️ PREMIUM LATINO 📽️", CINEMAX  SD
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6eBbhRGP-B9tlQ3qpdGyM5/ts
-#EXTINF:-1 xui-id="169408" tvg-id="" tvg-name="CINE  | HBO POP  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="📽️ PREMIUM LATINO 📽️", HBO POP  SD
-http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x77D1E2LcYnsZKmLgpr9TZ9/ts
 #EXTINF:-1 xui-id="169410" tvg-id="" tvg-name="CINE  | TNT  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="📽️ PREMIUM LATINO 📽️", TNT  HD
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x41-wC9kX22yMw46L0rDcVE/ts
 #EXTINF:-1 xui-id="169413" tvg-id="" tvg-name="CINE |  TNT SERIES  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="📽️ PREMIUM LATINO 📽️",  TNT SERIES  SD
@@ -70,12 +68,110 @@ http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4dY4u
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7VwlpwB9nhzX0WrDWQT8xH/ts
 #EXTINF:-1 xui-id="167228" tvg-id="" tvg-name="HBO POP*" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="🎬 HBO CHANNEL 🎬",HBO POP SD
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6GiXnPRgxUZHthgWVs7fUP/ts
-#EXTINF:-1 xui-id="168088" tvg-id="" tvg-name="Como Dice El Dicho" tvg-logo="https://cdn.elgrupoinformatico.com/Noticias/2022/03/vix--logo-720x472.jpg" group-title="🎦 VIX+ CHANNELS",Como Dice El Dicho
-http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6sRzWhE2AWB9E6Uwua8dHH/ts
-#EXTINF:-1 xui-id="168089" tvg-id="" tvg-name="Maria Mercedes" tvg-logo="https://cdn.elgrupoinformatico.com/Noticias/2022/03/vix--logo-720x472.jpg" group-title="🎦 VIX+ CHANNELS",Maria Mercedes
-http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7ivydj_wRmiT3w5IE_72pi/ts
-#EXTINF:-1 xui-id="168090" tvg-id="" tvg-name="Mi Gorda Bella" tvg-logo="https://cdn.elgrupoinformatico.com/Noticias/2022/03/vix--logo-720x472.jpg" group-title="🎦 VIX+ CHANNELS",Mi Gorda Bella
-http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7MMSOxBW1vS6hRjOECFxHL/ts
+#EXTINF:-1 xui-id="170974" tvg-id="" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Anime
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6pnwyuqI-lTOhjkqE-GAYu/ts
+#EXTINF:-1 xui-id="170975" tvg-id="" tvg-name="Pluto TV Animé Acción" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Animé Acción
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5s5j-6oc7p8S-gn9j6Xpyi/ts
+#EXTINF:-1 xui-id="170976" tvg-id="" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Naruto
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x56w3AXuwYQBjUHBR4rhH7s/ts
+#EXTINF:-1 xui-id="170977" tvg-id="" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Death Note
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7zvuUbwiyoIV1G024JKkPh/ts
+#EXTINF:-1 xui-id="170978" tvg-id="" tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Yu-Gi-Oh
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5MqlsmrI7WQG7shUz2eutZ/ts
+#EXTINF:-1 xui-id="170979" tvg-id="" tvg-name="Beyblade" tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Beyblade
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5pIHSehMJAHsADVqoLV7aa/ts
+#EXTINF:-1 xui-id="170980" tvg-id="" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="☣️ PLUTO TV☣️",One Piece
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6L81sz7HvIqsp5sktkUTUc/ts
+#EXTINF:-1 xui-id="170981" tvg-id="" tvg-name="Pluto TV Anime Héroes" tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Anime Héroes
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x63aNpTbwrH1srLfHRnUX77/ts
+#EXTINF:-1 xui-id="170982" tvg-id="" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Tokusato
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5_eTD5udXokWMZPuVtd_UI/ts
+#EXTINF:-1 xui-id="170983" tvg-id="" tvg-name="Pluto TV E-Sports" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV E-Sports
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x48JeKEUPrkRoPaLttUb6em/ts
+#EXTINF:-1 xui-id="170984" tvg-id="" tvg-name="ESR 24/7" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",ESR 24/7
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6nSUGJuutxF_UawTEjvyb3/ts
+#EXTINF:-1 xui-id="170985" tvg-id="" tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Fútbol
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6W3v11L7aQ4XiKtCuwJaTI/ts
+#EXTINF:-1 xui-id="170986" tvg-id="" tvg-name="La Liga Premier | Paramount+" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",La Liga Premier | Paramount+
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5rYA5ire0aLVsC5HuRkY8E/ts
+#EXTINF:-1 xui-id="170987" tvg-id="" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Deportes
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x43B8S86pHk-7_70SMTR6Jr/ts
+#EXTINF:-1 xui-id="170988" tvg-id="" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",FUEL TV
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6UoNL30nAoIduv38d_O0n4/ts
+#EXTINF:-1 xui-id="170989" tvg-id="" tvg-name="La Selección" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",La Selección
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4X-IonvxwmV-5PWNIne8j3/ts
+#EXTINF:-1 xui-id="170990" tvg-id="" tvg-name="Pluto TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Peleas
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x65C0DqD-VbeYQXCTfkrjQL/ts
+#EXTINF:-1 xui-id="170991" tvg-id="" tvg-name="Lucha Libre AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Lucha Libre AAA
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6798pd6G3PjTiKWQymkhHW/ts
+#EXTINF:-1 xui-id="170992" tvg-id="" tvg-name="Motorvision TV" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Motorvision TV
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x77Np5PT-9Af3Hu2VTGQjSr/ts
+#EXTINF:-1 xui-id="170993" tvg-id="" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",FailArmy
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6DlsDdcQPlCLC1YJmjK80k/ts
+#EXTINF:-1 xui-id="170994" tvg-id="" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",The Pet Collective
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7f-sqM6K6gumyBKr0YaD0D/ts
+#EXTINF:-1 xui-id="170995" tvg-id="" tvg-name="Pluto TV Humor" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Humor
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7nhvruqhw-m17dtv7p14w2/ts
+#EXTINF:-1 xui-id="170996" tvg-id="" tvg-name="Schitt's Creek" tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Schitt's Creek
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7ojAlKub0NLiojxjSG_4qD/ts
+#EXTINF:-1 xui-id="170997" tvg-id="" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Comedy Central Pluto TV
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4Far8HjlPO43uWMsIHkuhM/ts
+#EXTINF:-1 xui-id="170998" tvg-id="" tvg-name="Backdoor" tvg-logo="https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Backdoor
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6AvCtuD5K0VnWrGDUgfyrM/ts
+#EXTINF:-1 xui-id="170999" tvg-id="" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Comedy Central South Park
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5GTwPu32HuDMMjPcAjwoiu/ts
+#EXTINF:-1 xui-id="171000" tvg-id="" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Daria
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4raw9Ds0rbwGqExnT2xyp1/ts
+#EXTINF:-1 xui-id="171001" tvg-id="" tvg-name="La Familia del Barrio" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",La Familia del Barrio
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4UziNxdXQBbqmYGMK_1KXH/ts
+#EXTINF:-1 xui-id="171002" tvg-id="" tvg-name="Pluto TV Viajes" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Viajes
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7itKJMmwJUlrgllUeYjx1A/ts
+#EXTINF:-1 xui-id="171003" tvg-id="" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Cocina
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x63XDsZeJrIPH33QXG4EGJS/ts
+#EXTINF:-1 xui-id="171004" tvg-id="" tvg-name="Pluto TV Recetas" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Recetas
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6N8fivRjlL6BEBjwUE0qwo/ts
+#EXTINF:-1 xui-id="171005" tvg-id="" tvg-name="Tastemade" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Tastemade
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4MdPBeuVXcOO7oSDWuU9hg/ts
+#EXTINF:-1 xui-id="171006" tvg-id="" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Hogar
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5sBZSJQqskaNjM3f-Hs1kO/ts
+#EXTINF:-1 xui-id="171007" tvg-id="" tvg-name="Pluto TV Fashionstream" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Fashionstream
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4qWuKkPJgCZsXhyGtjVkhI/ts
+#EXTINF:-1 xui-id="171008" tvg-id="" tvg-name="Baby Shark TV" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Baby Shark TV
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7qbK8Ers1W1J0HjgT8g9pe/ts
+#EXTINF:-1 xui-id="171009" tvg-id="" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Babyfirst
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x56vJYkpPiSlHK0GiVIohwg/ts
+#EXTINF:-1 xui-id="171010" tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Junior
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7QVywk5zZWmGhdDkn2MujU/ts
+#EXTINF:-1 xui-id="171011" tvg-id="" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Nick Jr. Club
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7h7SO5QWNTVnPhL4Qoj-LL/ts
+#EXTINF:-1 xui-id="171012" tvg-id="" tvg-name="Las Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Las Pistas de Blue
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6pMig0dChfbILYkoQVHyUT/ts
+#EXTINF:-1 xui-id="171013" tvg-id="" tvg-name="Barney" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Barney
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6wtvE0B8DdZUkZbqZfV5Kw/ts
+#EXTINF:-1 xui-id="171014" tvg-id="" tvg-name="Babar" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Babar
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4u5kZzH9oXI-sVlP6V0AjW/ts
+#EXTINF:-1 xui-id="171015" tvg-id="" tvg-name="El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",El Reino Infantil
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7YsmnEynl6ICiGpky_qdmA/ts
+#EXTINF:-1 xui-id="171016" tvg-id="" tvg-name="Pluto TV Anime Kids" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Anime Kids
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4ana4It8n2x3NgbFJe9hZX/ts
+#EXTINF:-1 xui-id="171017" tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Pluto TV Kids
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7yK3J-SLALvW6c2EOJtrEv/ts
+#EXTINF:-1 xui-id="171018" tvg-id="" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Bob Esponja Pantalones Cuadrados
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7fph2Eir_Q11Sfr_r-zouh/ts
+#EXTINF:-1 xui-id="171019" tvg-id="" tvg-name="Los Padrinos Mágicos" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="☣️ PLUTO TV☣️",Los Padrinos Mágicos
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x49KWMDiUGBWBMf8abJ2-2s/ts
+#EXTINF:-1 xui-id="171020" tvg-id="" tvg-name="Nick Clásico" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Nick Clásico
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4kTMRtLVR7qPfqNatC16Ig/ts
+#EXTINF:-1 xui-id="171021" tvg-id="" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Rugrats
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6SqQ_DvrzrgMks15X2bn6R/ts
+#EXTINF:-1 xui-id="171022" tvg-id="" tvg-name="Nickelodeon Rocket Power" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Nickelodeon Rocket Power
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x46fEN-JW8L0GMfIH0v-5M2/ts
+#EXTINF:-1 xui-id="171023" tvg-id="" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",Karaoke por Stingray
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4ZFsl7omOyjA1N35-Fk_OH/ts
+#EXTINF:-1 xui-id="171024" tvg-id="" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",MTV Biggest Pop
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7kdOJgMzYejcX0s60hKFrG/ts
+#EXTINF:-1 xui-id="171025" tvg-id="" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",MTV Spankin' New
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x53zwAsL6ETLV_c1Mj-UlAv/ts
 #EXTINF:-1 xui-id="169497" tvg-id="" tvg-name="HTV" tvg-logo="http://svtv.xyz:8000/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="🎶 MUSICA 🎶",HTV
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7VV7oKJqk3vdtRtmkxdrHs/ts
 #EXTINF:-1 xui-id="169498" tvg-id="" tvg-name="Retro Plus TV Señal 2  | CL" tvg-logo="http://svtv.xyz:8000/images/6c9f1adecf8fd1791eec757d85b2707f.png" group-title="🎶 MUSICA 🎶",Retro Plus TV Señal 2  | CL
@@ -96,16 +192,6 @@ http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7yKGz
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6gY2q10IdnoI-H9Tno1vzI/ts
 #EXTINF:-1 xui-id="169517" tvg-id="" tvg-name="MUSICA | BANDAMAX" tvg-logo="https://i.ibb.co/wSFB9XM/BANDAMAX.jpg" group-title="🎶 MUSICA 🎶",MUSICA | BANDAMAX
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6SRmNteYSNqEUMUf3eKer7/ts
-#EXTINF:-1 xui-id="167405" tvg-id="" tvg-name="PY: TIGO SPORT 1" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="⚽⚽ TIGO SPORTS ⚽⚽",TIGO SPORTS (paraguay)
-http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x61CJo71zPIPzsDMZlY2j6J/ts
-#EXTINF:-1 xui-id="167375" tvg-id="" tvg-name="TIGO SPORTS PANAMA" tvg-logo="https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg" group-title="⚽⚽ TIGO SPORTS ⚽⚽",TIGO SPORTS (panama)
-http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x44wGKkpbCEWyOBGuT-CZKA/ts
-#EXTINF:-1 xui-id="166884" tvg-id="" tvg-name="GT | TIGO SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="⚽⚽ TIGO SPORTS ⚽⚽",TIGO SPORTS (guatemala)
-http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4HQKX0HfwJlBQpzoSPnBW2/ts
-#EXTINF:-1 xui-id="166899" tvg-id="" tvg-name="TIGO SPORTS HN" tvg-logo="https://pbs.twimg.com/profile_images/1197301079827976195/sRCIndHu_400x400.jpg" group-title="⚽⚽ TIGO SPORTS ⚽⚽",TIGO SPORTS (hoduras)
-http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x5XrHC-gQWnYHyUmgPNsGpH/ts
-#EXTINF:-1 xui-id="166890" tvg-id="" tvg-name="SV  | TIGO SPORTS OP1" tvg-logo="http://svtv.xyz:8000/images/ccf6d22fc26285238508588ca5bd8f8e.png" group-title="⚽⚽ TIGO SPORTS ⚽⚽",TIGO SPORTS (salvador)
-http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7_8IOw0PVTrG7_RrAsqBHS/ts
 #EXTINF:-1 xui-id="167203" tvg-id="" tvg-name="DLAT | TYC SPORTS INTERNACIONAL HD" tvg-logo="https://image.ibb.co/eXDhHQ/Ty_C_Sports_Internacional.png" group-title="⚽DEPOTES/LATINOS⚽", TYC SPORTS INTERNACIONAL HD
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x70NTXUKy6tDlrZ25XzOq1l/ts
 #EXTINF:-1 xui-id="167222" tvg-id="" tvg-name="DLAT | TNT SPORTS ARG" tvg-logo="http://svtv.xyz:8000/images/1ae1c7b64cfeba957afa7c26150fd20a.png" group-title="⚽DEPOTES/LATINOS⚽", TNT SPORTS ARG
