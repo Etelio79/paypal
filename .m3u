@@ -222,6 +222,22 @@ http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/268887
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/268889
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU" group-title="▶️CINE PREMIUM▶️", CINE LATINO
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/268891
+#EXTINF:-1 xui-id="169311" tvg-id="" tvg-name="HBO Plus SD*" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="🎬 HBO CHANNEL 🎬",HBO Plus SD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4PTOHQeJuhYJV1bkiaiARd/ts
+#EXTINF:-1 xui-id="169312" tvg-id="" tvg-name="HBO SD*" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="🎬 HBO CHANNEL 🎬",HBO SD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4DGxJoHIxpmYLPoxwE0XdL/ts
+#EXTINF:-1 xui-id="169313" tvg-id="" tvg-name="HBO XTREME SD*" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="🎬 HBO CHANNEL 🎬",HBO XTREME SD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4-kiq_jygFMF9HfBugI0c5/ts
+#EXTINF:-1 xui-id="169309" tvg-id="" tvg-name="CINE  | HBO SIGNATURE  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8X6vH9jsyuXvtYEs56bNO1NlDkim-SJkQg&usqp=CAU" group-title="🎬 HBO CHANNEL 🎬",HBO SIGNATURE  SD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6FRtOQMsMILeLhg6rfJTrl/ts
+#EXTINF:-1 xui-id="169306" tvg-id="" tvg-name="CINE | HBO 2  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="🎬 HBO CHANNEL 🎬", HBO 2  SD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7_LNgVXleYM9wLD25-iVHc/ts
+#EXTINF:-1 xui-id="169300" tvg-id="" tvg-name="CINE | HBO FAMILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="🎬 HBO CHANNEL 🎬",HBO FAMILY  SD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4dY4uNZtIX5uPmOWz5OGW4/ts
+#EXTINF:-1 xui-id="167227" tvg-id="" tvg-name="HBO MUNDI" tvg-logo="http://svtv.xyz:8000/images/e4991df53d68d8995e52ba9e5c37284f.png" group-title="🎬 HBO CHANNEL 🎬",HBO MUNDI SD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7VwlpwB9nhzX0WrDWQT8xH/ts
+#EXTINF:-1 xui-id="167228" tvg-id="" tvg-name="HBO POP*" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="🎬 HBO CHANNEL 🎬",HBO POP SD
+http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x6GiXnPRgxUZHthgWVs7fUP/ts
 #EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/4ff261560cb18f170b18681a554d4680.png" group-title="🎶MUSICA 🎶", Hit List
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/270212
 #EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/4ff261560cb18f170b18681a554d4680.png" group-title="🎶MUSICA 🎶", Hip-Hop/R&B
@@ -442,6 +458,62 @@ http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x4ZFsl
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x7kdOJgMzYejcX0s60hKFrG/ts
 #EXTINF:-1 xui-id="171025" tvg-id="" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="☣️ PLUTO TV☣️",MTV Spankin' New
 http://fastvplayer.com:8080/play/Hsg6-fg7ia5oncqLhD4lsFvUVDrOwbkKxYXCdi9I6x53zwAsL6ETLV_c1Mj-UlAv/ts
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO NEWS FHD" tvg-logo="http://streamgo.vip:8008/images/80cb6a29a8a48a8c850f99b490145d4a.jpg" group-title="Brasil ⭐",BR | GLOBO NEWS HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254386
+#EXTINF:-1 tvg-id="" tvg-name="BR | BAND NEWS HD" tvg-logo="http://streamgo.vip:8008/images/00273ab0d46cb20f7c4f0badea0bc9b7.jpg" group-title="Brasil ⭐",BR | BAND NEWS HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254387
+#EXTINF:-1 tvg-id="" tvg-name="BR | BAND FHD" tvg-logo="http://streamgo.vip:8008/images/a8a5bbeedca093b94b7f0d3f185b98f7.jpg" group-title="Brasil ⭐",BR | BAND HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254388
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO HD" tvg-logo="http://streamgo.vip:8008/images/b07b65f9ed3daa2bf5e075a7add9cd4b.jpg" group-title="Brasil ⭐",BR | GLOBO HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254389
+#EXTINF:-1 tvg-id="" tvg-name="BR | REDCORD TV HD" tvg-logo="http://streamgo.vip:8008/images/d0e75ad3f34203d059fbeac4d9956f82.jpg" group-title="Brasil ⭐",BR | REDCORD TV HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254391
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVE BRASIL HD" tvg-logo="http://streamgo.vip:8008/images/07869bb5158f6ea08c8aca877152b426.jpg" group-title="Brasil ⭐",BR | TVE BRASIL HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254392
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPACE FHD" tvg-logo="http://streamgo.vip:8008/images/6506ae39fdca9845e3a6de3865183e57.jpg" group-title="Brasil ⭐",BR | SPACE HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254393
+#EXTINF:-1 tvg-id="" tvg-name="BR I SYFY FHD" tvg-logo="http://streamgo.vip:8008/images/8b2b4842e5fd3db22abc12dc94470381.jpg" group-title="Brasil ⭐",BR I SYFY HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254394
+#EXTINF:-1 tvg-id="" tvg-name="BR I A&E HD" tvg-logo="http://streamgo.vip:8008/images/ea8a1a99f6c94c275a58dcd78f418c1f.jpg" group-title="Brasil ⭐",BR I A&E HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254395
+#EXTINF:-1 tvg-id="" tvg-name="BR PARA MOUNT FHD" tvg-logo="http://streamgo.vip:8008/images/3e48cca712d5060410a85a4135606ac8.jpg" group-title="Brasil ⭐",BR PARA MOUNT HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254396
+#EXTINF:-1 tvg-id="" tvg-name="BR TNT SERIES HD" tvg-logo="http://streamgo.vip:8008/images/01d1256c0a33bd7e3397ca95b4242600.jpg" group-title="Brasil ⭐",BR TNT SERIES HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254397
+#EXTINF:-1 tvg-id="" tvg-name="BR TNT HD" tvg-logo="http://streamgo.vip:8008/images/3ed8d415ab1bbac628429a85851e53b6.jpg" group-title="Brasil ⭐",BR TNT HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254398
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO SIGNATURE HD" tvg-logo="http://streamgo.vip:8008/images/fb89506706f488c564c637b67f5954b3.jpg" group-title="Brasil ⭐",BR HBO SIGNATURE HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254399
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO HD" tvg-logo="http://streamgo.vip:8008/images/509e5f41146e278f9eab1ddaceb34515.jpg" group-title="Brasil ⭐",BR HBO HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254400
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO 2 HD" tvg-logo="http://streamgo.vip:8008/images/7bd2bf5c6ca1f86057cdfae03557f1f7.jpg" group-title="Brasil ⭐",BR HBO 2 HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254401
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO EXTREME HD" tvg-logo="http://streamgo.vip:8008/images/94736103504d1e781eaaeaf147832abb.jpg" group-title="Brasil ⭐",BR HBO EXTREME HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254402
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO FAMILY HD" tvg-logo="http://streamgo.vip:8008/images/976ea24cbb444445837bb684e806199b.jpg" group-title="Brasil ⭐",BR HBO FAMILY HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254403
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO + FHD" tvg-logo="http://streamgo.vip:8008/images/a9ecc77fb6b37f8e5292ceb9fb5130e6.jpg" group-title="Brasil ⭐",BR | HBO + FHD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254404
+#EXTINF:-1 tvg-id="" tvg-name="BR | WARNER HD" tvg-logo="http://streamgo.vip:8008/images/320ad7cce12f12b294b8502ff0365b06.jpg" group-title="Brasil ⭐",BR | WARNER HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254405
+#EXTINF:-1 tvg-id="" tvg-name="BR | AMC FHD" tvg-logo="http://streamgo.vip:8008/images/7c52ed5b8820b7dfd90b5a784bac64b3.jpg" group-title="Brasil ⭐",BR | AMC HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254406
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPORTV FHD" tvg-logo="http://streamgo.vip:8008/images/db3b56b36b080e6dffa240f4d1e88056.jpg" group-title="Brasil ⭐",BR | SPORTV HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254407
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPORTV 2 FHD" tvg-logo="http://streamgo.vip:8008/images/7ff17af9071f995fe2da3ed4f9d28473.jpg" group-title="Brasil ⭐",BR | SPORTV 2 HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254408
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPORTV 3 HD" tvg-logo="http://streamgo.vip:8008/images/0e0f4d390eec340a5856b24d04848961.jpg" group-title="Brasil ⭐",BR | SPORTV 3 HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254409
+#EXTINF:-1 tvg-id="" tvg-name="BR | BANDS SPORTS HD" tvg-logo="http://streamgo.vip:8008/images/615286d6da04704eeb00427e601fedb1.jpg" group-title="Brasil ⭐",BR | BANDS SPORTS HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254410
+#EXTINF:-1 tvg-id="" tvg-name="BR | ESPN 2 HD" tvg-logo="http://streamgo.vip:8008/images/193e59981eab98053cdd6c7e50c1bf41.jpg" group-title="Brasil ⭐",BR | ESPN 2 HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254411
+#EXTINF:-1 tvg-id="" tvg-name="BR | FOX SPORTS 2 HD" tvg-logo="http://streamgo.vip:8008/images/cd49f7b1391803857aa5586cf6940bb8.jpg" group-title="Brasil ⭐",BR | FOX SPORTS 2 HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254412
+#EXTINF:-1 tvg-id="" tvg-name="BR | COMBATE HD" tvg-logo="http://streamgo.vip:8008/images/edb53cc60396db08e1ff6e2d566c41cf.jpg" group-title="Brasil ⭐",BR | COMBATE HD
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254413
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE HD ⚽" tvg-logo="http://streamgo.vip:8008/images/c54bdbf82a68e702aae57c5c411f8daf.jpg" group-title="Brasil ⭐",BR | PREMIERE HD ⚽
+http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/254414
 #EXTINF:-1 tvg-id="" tvg-name="US: CARTOON NETWORK EAST" tvg-logo="http://streamgo.vip:8008/images/ec73f63752e1524c0000e3cb780fbe88.png" group-title="🇺🇸 Usa Childish ", CARTOON NETWORK EAST
 http://streamgo.vip:8008/IPTV-CLUB/enVGNgzc3WTD/270244
 #EXTINF:-1 tvg-id="" tvg-name="US: CARTOON NETWORK WEST" tvg-logo="http://streamgo.vip:8008/images/ec73f63752e1524c0000e3cb780fbe88.png" group-title="🇺🇸 Usa Childish ", CARTOON NETWORK WEST
@@ -1526,10 +1598,6 @@ http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/253594.mkv
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/253327.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La consagracion de la primavera (2022) ESP" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGePDfyUvxIq9SvcZGZiRzjvNQf.jpg" group-title="DRAMA (HD)",La consagracion de la primavera (2022) ESP
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/253328.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Plane (2023) (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2g9ZBjUfF1X53EinykJqiBieUaO.jpg" group-title="ACCION/ACTION (HD)",Plane (2023) (SUB)
-http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/252761.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Legion of Super-Heroes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4PXYuqSCCroNgP94yjDDQeGS7I.jpg" group-title="ANIME (HD)",Legion of Super-Heroes (2023)
-http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/253242.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rock Dog 3: Battle the Beat (2023) (ESP)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39Hr1FKfqqvx0umS60PCCWtBOKd.jpg" group-title="KIDS (HD)",Rock Dog 3: Battle the Beat (2023) (ESP)
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/253279.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Blood (2023) (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg" group-title="SUSPENSE-TERROR (HD)",Blood (2023) (SUB)
@@ -1566,8 +1634,6 @@ http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/252755.mkv
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/252756.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Spirit (2023) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/B7m21gukMeVK3NAuk1PLCo9C8p.jpg" group-title="DRAMA (HD)",True Spirit (2023) DUAL
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/252757.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WWE Royal Rumble 2023 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EPPoPCAufSNWnfeQEjaQRwLuWg.jpg" group-title="EVENTOS WWE GRABADOS ",WWE Royal Rumble 2023 (2023)
-http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/252573.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pamela, A Love Story (2023) (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOj8mNRXz3ss9pwCYgpva1JqmZx.jpg" group-title="DOCUMENTALES/DOCUMENTARIES (HD)",Pamela, A Love Story (2023) (SUB)
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/252395.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Babylon (2022) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKEk1w1aO7YWESer1vnxVE96qvN.jpg" group-title="DRAMA (HD)",Babylon (2022) DUAL
@@ -1598,8 +1664,6 @@ http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/249204.mkv
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/249586.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Offering (2023) (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XdjoXUGZLKAgNUbtks4wNzlp9j.jpg" group-title="SUSPENSE-TERROR (HD)",The Offering (2023) (SUB)
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/250700.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Sister's Serial Killer Boyfriend (2023) (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkXJzOv94ELl8jH20P6o7Oxhm6O.jpg" group-title="CAM/BAJA CALIDAD  (CINE)",My Sister's Serial Killer Boyfriend (2023) (SUB)
-http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/250703.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Legions (2023) (ESP)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bpmojZqoclbXGcsG2VJq4GOWa3.jpg" group-title="SYFY-FANTASIA/SYFY-FANTASY (HD)",Legions (2023) (ESP)
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/250867.mp4
 #EXTINF:-1 tvg-id="" tvg-name="You People (2023) (DUAL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg" group-title="COMEDIA/COMEDY (HD)",You People (2023) (DUAL)
@@ -1612,8 +1676,6 @@ http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/251227.mkv
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/251333.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Teen Wolf: The Movie (2023) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg" group-title="MISTERY-HORROR (HD)",Teen Wolf: The Movie (2023) DUAL
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/251334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Skinamarink (2023) (ESP)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o942912KFh89SGhqWuKXuT0SXzN.jpg" group-title="CAM/BAJA CALIDAD  (CINE)",Skinamarink (2023) (ESP)
-http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/241491.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Hatchet Wielding Hitchhiker (2023) (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w3XkmtAoNQ5tHmWNud9f8jVAWi.jpg" group-title="DOCUMENTALES/DOCUMENTARIES (HD)",The Hatchet Wielding Hitchhiker (2023) (SUB)
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/242800.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Disconnect: The Wedding Planner (2023) (DUAL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGmCxGkVMOqig2TrbXAsE9dOVvX.jpg" group-title="COMEDIA/COMEDY (HD)",Disconnect: The Wedding Planner (2023) (DUAL)
@@ -1622,8 +1684,6 @@ http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/247747.mkv
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/247748.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Paradise Highway (2022) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg" group-title="DRAMA (HD)",Paradise Highway (2022) DUAL
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/251043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LUPIN THE 3rd vs. CAT’S EYE (2023) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b85EjAMa40gkSs9wOR9P6nuRZhi.jpg" group-title="ANIME (HD)",LUPIN THE 3rd vs. CAT’S EYE (2023) DUAL
-http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/251044.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shotgun Wedding (2022) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoXvQY8nbZKoOtGx8IBV6U5Z1k2.jpg" group-title="ACCION/ACTION (HD)",Shotgun Wedding (2022) DUAL
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/251045.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Candy Land (2023) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3upBKM4ZFZ1fEEnWrnTZMuyPrzI.jpg" group-title="MISTERY-HORROR (HD)",Candy Land (2023) SUB
@@ -2400,8 +2460,6 @@ http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/224582.mkv
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/224583.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Horrible Histories: The Movie - Rotten Romans (2019) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMRhLzGqOXGsTWsZyRtpu6h6IXG.jpg" group-title="COMEDIA/COMEDY (HD)",Horrible Histories: The Movie - Rotten Romans (2019) DUAL
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/224584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Presencias (2022) LAT" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgDT3uol3mdvwEg0jt1ble3l9hw.jpg" group-title="ESTRENOS  POPULARES/POPULAR RELEASES (HD)",Presencias (2022) LAT
-http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/224585.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Thor: Love and Thunder (2022) 4K DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg" group-title="MOVIES 4K ONLY",Thor: Love and Thunder (2022) 4K DUAL
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/224586.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pinocchio (2022) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62hEK8hGr9Ni0PyDwmsZHuhCLeq.jpg" group-title="SYFY-FANTASIA/SYFY-FANTASY (HD)",Pinocchio (2022) DUAL
@@ -2440,8 +2498,6 @@ http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/223857.mkv
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/223752.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Honk for Jesus. Save Your Soul. (2022) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lbYz4h4pIwkuUGGirPA5ncyyxe.jpg" group-title="COMEDIA/COMEDY (HD)",Honk for Jesus. Save Your Soul. (2022) DUAL
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/223753.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone Ryuusui (2022) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b26VogUnaofhsd7hYZXQjSsyyZX.jpg" group-title="ANIME (HD)",Dr. Stone Ryuusui (2022) DUAL
-http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/223754.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Aviary (2022) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6HUQcOQsgkFFO8xCITfxQz6ivc.jpg" group-title="ACCION/ACTION (HD)",The Aviary (2022) DUAL
 http://go-nextlevel.xyz:25461/movie/Valentin/Valentin/223755.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Las Vocales (2022) LAT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTPL2U9glusiPwOBFoO3IeBiKDK.jpg" group-title="COMEDIA/COMEDY (HD)",Las Vocales (2022) LAT
