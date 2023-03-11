@@ -2,46 +2,6 @@
 https://dl.dropboxusercontent.com/s/5e4spo572n6by2g/Video_20230203163424255_by_Filmigo.mp4?dl=0
 #EXTINF:-1 tvg-id="CONFIGURACION" tvg-name="CONFIGURACION" tvg-logo="https://dl.dropboxusercontent.com/s/659ew0dmfy66ypw/Rep.png?dl=0" group-title="🛠️ CONFIGURACION 🛠️", FUNCIONES
 https://dl.dropboxusercontent.com/s/xrzobiiriobhr4d/Video_20230203123748401_by_Filmigo.mp4?dl=0
-#EXTINF:-1 tvg-id="" tvg-name="Directv Eventos HD (CO)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="⚽⚽ Deportes ⚽⚽",Directv Eventos HD (CO)
-http://hidra.live:80/Diego/Diego/312887
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD (CENTRO)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="⚽⚽ Deportes ⚽⚽",ESPN 4 HD
-http://hidra.live:80/Diego/Diego/312866
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (CENTRO)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="⚽⚽ Deportes ⚽⚽",ESPN 2 HD
-http://hidra.live:80/Diego/Diego/312857
-#EXTINF:-1 tvg-id="" tvg-name="Espn Extra HD (ARG)*" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="⚽⚽ Deportes ⚽⚽",Espn Extra HD
-http://hidra.live:80/Diego/Diego/312845
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="⚽⚽ Deportes ⚽⚽",Fox Sports Premium
-http://hidra.live:80/Diego/Diego/304554
-#EXTINF:-1 tvg-id="AR - DeporTV" tvg-name="DeporTV FHD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="⚽⚽ Deportes ⚽⚽",DeporTV HD
-http://hidra.live:80/Diego/Diego/123873
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes (PE)" tvg-logo="https://img.tvcl.xyz/deportes/mdeportes.png" group-title="⚽⚽ Deportes ⚽⚽",Movistar Deportes 
-http://hidra.live:80/Diego/Diego/34743
-#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 5 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="⚽⚽ Deportes ⚽⚽",b31N Sports 5 
-http://hidra.live:80/Diego/Diego/34722
-#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 6 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="⚽⚽ Deportes ⚽⚽",b31N Sports 6 
-http://hidra.live:80/Diego/Diego/34723
-#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 7 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="⚽⚽ Deportes ⚽⚽",b31N Sports 7 
-http://hidra.live:80/Diego/Diego/34724
-EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network FHD (CA)" tvg-logo="https://img.tvcl.xyz/deportes/fightnetwork.png" group-title="⚽⚽ Deportes ⚽⚽",Fight Network FHD (CA)
-http://hidra.live:80/Diego/Diego/34711
-#EXTINF:-1 tvg-id="NBATV.th" tvg-name="NBA TV HD (US)" tvg-logo="https://img.tvcl.xyz/deportes/nba.png" group-title="⚽⚽ Deportes ⚽⚽",NBA TV HD (US)
-http://hidra.live:80/Diego/Diego/34712
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass FHD (US)" tvg-logo="https://img.tvcl.xyz/deportes/ufc.png" group-title="⚽⚽ Deportes ⚽⚽",UFC Fight Pass FHD (US)
-http://hidra.live:80/Diego/Diego/34714
-#EXTINF:-1 tvg-id="UnivisionWLII.us" tvg-name="Univision Deportes Network HD (US)" tvg-logo="https://img.tvcl.xyz/internacionales/univision.png" group-title="⚽⚽ Deportes ⚽⚽",Univision Deportes Network
-http://hidra.live:80/Diego/Diego/34715
-#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Golf Channel SD (MX)" tvg-logo="https://img.tvcl.xyz/deportes/golf.png" group-title="⚽⚽ Deportes ⚽⚽",Golf Channel SD (MX)
-http://hidra.live:80/Diego/Diego/34695
-#EXTINF:-1 tvg-id="CL - Teletrak" tvg-name="Teletrak HD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/teletrak.png" group-title="⚽⚽ Deportes ⚽⚽",Teletrak HD (CL)
-http://hidra.live:80/Diego/Diego/34680
-#EXTINF:-1 tvg-id="CL - CDO Básico" tvg-name="CDO Basico SD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/cdo.png" group-title="⚽⚽ Deportes ⚽⚽",CDO Basico SD (CL)
-http://hidra.live:80/Diego/Diego/34678
-#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Fox Sports 3 SD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="⚽⚽ Deportes ⚽⚽",Fox Sports 3 SD (ARG)
-http://hidra.live:80/Diego/Diego/34645
-#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="Fox Sports SD (MX)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="⚽⚽ Deportes ⚽⚽",Fox Sports SD (MX)
-http://hidra.live:80/Diego/Diego/34621
-#EXTINF:-1 tvg-id="CL - FOX Sports 1 HD" tvg-name="Fox Sports 1 SD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="⚽⚽ Deportes ⚽⚽",Fox Sports 1 SD (CL)
-http://hidra.live:80/Diego/Diego/34630
 #EXTINF:-1 tvg-id="MX - Cartoon Network" tvg-name="Cartoon Network SD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles",Cartoon Network SD (MX)
 http://hidra.live:80/Diego/Diego/34752
 #EXTINF:-1 tvg-id="MX - Cartoon Network" tvg-name="Cartoon Network FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles",Cartoon Network FHD (MX)
